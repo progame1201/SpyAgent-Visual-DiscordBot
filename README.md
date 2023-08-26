@@ -1,4 +1,4 @@
-![GitHub all releases](https://img.shields.io/github/downloads/progame1201/SpyAgent-DiscordBot/total)
+![GitHub all releases](https://img.shields.io/github/downloads/progame1201/SpyAgent-Visual-DiscordBot/total)
 
 # SpyAgent-DiscordBot description
 a bot that allows you to track messages on connected servers and also send messages to selected channels on behalf of the bot<br>
